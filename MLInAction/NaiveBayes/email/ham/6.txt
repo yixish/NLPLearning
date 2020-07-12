@@ -1,0 +1,5 @@
+Hello,
+
+Since you are an owner of at least one Google Groups group that uses the customized welcome message, pages or files, we are writing to inform you that we will no longer be supporting these features starting February 2011. We made this decision so that we can focus on improving the core functionalities of Google Groups -- mailing lists and forum discussions.  Instead of these features, we encourage you to use products that are designed specifically for file storage and page creation, such as Google Docs and Google Sites.
+
+you have received this mandatory email service announcement to update you about important changes to Google Groups.
